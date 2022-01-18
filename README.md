@@ -1,3 +1,3 @@
 # xzf
 golang tool  
-self using   
+self-use   
